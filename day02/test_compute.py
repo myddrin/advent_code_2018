@@ -1,4 +1,4 @@
-from day2.compute import ID
+from day02.compute import ID
 
 
 def test_1():

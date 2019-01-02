@@ -2,7 +2,7 @@ from datetime import datetime
 
 import pytest
 
-from day4.compute import Schedule, GuardState, Status
+from day04.compute import Schedule, GuardState, Status
 
 
 @pytest.mark.parametrize('filename', ('test1.txt', 'test1_unordered.txt'))

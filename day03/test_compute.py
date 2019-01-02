@@ -1,4 +1,4 @@
-from day3.compute import Raster, Rect, Position
+from day03.compute import Raster, Rect, Position
 
 
 def test_loading():

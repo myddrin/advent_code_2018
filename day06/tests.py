@@ -1,6 +1,6 @@
 import pytest
 
-from day6.compute import Point, Map, Zone
+from day06.compute import Point, Map, Zone
 
 
 @pytest.mark.parametrize('filename', ('test1.txt', 'test2.txt'))
