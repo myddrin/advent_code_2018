@@ -1,0 +1,34 @@
+aaaaa.cccc
+aAaaa.cccc
+aaaddecccc
+aadddeccCc
+..dDdeeccc
+bb.deEeecc
+bBb.eeee..
+bbb.eeefff
+bbb.eeffff
+bbb.ffffFf
+
+
+Aaaa.ccc  # 1
+aaddeccc
+adddeccC
+.dDdeecc  # 4
+b.deEeec
+Bb.eeee.
+bb.eeeff  # 7
+bb.eefff
+bb.ffffF
+          # 10
+
+12345678		  
+A.......  # 1
+........
+..###..C
+.#D###..  # 4
+.###E#..
+B.###...
+........  # 7
+........
+.......F
+          # 10
